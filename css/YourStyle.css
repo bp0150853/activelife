@@ -1,0 +1,998 @@
+/* set styles for body */
+html, body {
+    height: 100%;
+    background-color: white;
+    padding-top: 50px;
+}
+/* set the style for page-header to blue */
+.page-header{
+color: white;
+padding: 90px;
+}
+
+
+/* set the style for navbar background to red */
+.navbar{
+background-color: white;
+padding: 40px;
+    padding-left: 300px;
+    padding-top: 55px
+}
+
+/* Add your styles below with commenst */
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+/**********************************************************************/
+/*About club page starts here*/
+
+
+/*logo of the club*/
+img{
+position: absolute;
+bottom: 0px;
+left: 1%;
+height: 180px; 
+width: 250px;
+}
+ 
+
+/*Top main picture illustrating the club*/
+.mainpicture{
+width: 100%;
+height: 100%;
+padding-top: 15px;
+position: static;
+}
+
+
+/*About facilities paragraphs*/
+.well {
+    position: absolute;
+    top: 125%;
+    left: 10%;
+    right: 10%;
+    font-size: 20px;
+color: black;
+}
+
+/*Facilities table*/
+.facilitiestable{
+position: absolute;
+left: 22%;
+border: 90px;
+width: 70%;
+top: 165%;
+}
+
+/*Membership price plans heading*/
+.membershipprices{
+position: absolute;
+left: 0%;
+top: 195%;
+
+}
+
+/*7 free day trial picture */
+.triall{
+position: absolute;
+width: 80%;
+height: 95%;
+top: 220%;
+left: 10%;
+border-radius: 2%;
+}
+
+
+/*membership price table*/
+.membership{
+top: 323%;
+position: absolute;
+left: 15%;
+width: 70%;
+
+}
+
+/*price to the club £10 paragraphs*/
+.well1{
+position: absolute;
+top: 372%;
+right: 10%;
+left: 10%;
+padding: 20px;
+background-color: #efefef;
+border-radius: 10px;
+
+}
+
+/*Family membership price plans heading*/
+.familymembership{
+position: absolute;
+top: 385%;
+}
+
+/*Family membership picture*/
+.familypicture{
+position: absolute;
+top: 415%;
+width: 80%;
+height: 95%;
+left: 10%;
+border-radius: 2%;
+}
+
+/*Family membership table*/
+.membership2{
+position: absolute;
+top: 518%;
+left: 15%;
+width: 70%;
+}
+
+
+/*Kids below 6 are free of charge paragraphs*/
+.well3{
+position: absolute;
+top: 553%;
+left: 25%;
+right: 29%;
+padding: 20px;
+background-color: #efefef;
+border-radius: 10px;
+}
+
+
+/*Kids Room heading*/
+.kidsroomheading{
+position: absolute;
+top: 560%;
+left: 0%;
+}
+
+
+/*Kids room picture*/
+.kidsroom{
+position: absolute;
+width: 80%;
+height: 95%;
+top: 585%;
+left: 10%;
+border-radius: 2%;
+}
+
+
+
+/*Info about kids room paragrahs*/
+.infokidsroom{
+position: absolute;
+top: 685%;
+left: 10%;
+right: 10%;
+padding: 20px;
+background-color: #efefef;
+border-radius: 10px;
+}
+
+/*Contact heading*/
+.contact1{
+position: absolute;
+top: 700%;
+}
+
+/*Contact details table*/
+.number{
+position: absolute;
+
+    top: 740%;
+    left: 57%;
+    width: 40%;
+    height: 10%;
+
+}
+
+
+/*Contact picture*/
+.contact2 {
+position: absolute;
+width: 47%;
+height: 47%;
+ top: 730%;
+border-radius: 2%;
+
+}
+
+/*Location heading*/
+.location45{
+position: absolute;
+top: 775%
+}
+
+/*Google maps*/
+.section{
+position: absolute;
+
+left: 0px;
+top: 800%;
+left: 10%;
+}
+
+/*Working hours heading*/
+.opening{
+position: absolute;
+left: 54%;
+font-size: 29px;
+top: 790%;
+}
+
+/*working hours of the club table*/
+.details12{
+position: absolute;
+top: 815%;
+left: 64%;
+width: 30%;
+height: 25%;
+}
+
+
+/*Bottom bar*/
+.bottombar{
+overflow: hidden;
+  background-color: #f3f3f2;
+  position: absolute;
+  top: 870%;
+ width: 1425px;
+  height: 150px;
+ border-radius: 0px; 
+}
+
+/*Follow us heading in the bottom bar*/
+.followus42{
+position: absolute;
+font-size: 20px;
+color: black;
+top: 862%;
+left: 1%;
+}
+
+/*Must be included text in the bottom bar*/
+.academicwebsiteeee{
+position: absolute;
+top: 872%;
+font-size: 17px;
+left: 12%;
+
+}
+
+/*About the club page ends here*/
+/*********************************************************************/
+
+
+
+
+
+/*Tennis courts page starts here*/
+
+
+/*Tennis picture*/
+.tennisc{
+position: absolute;
+width: 42%;
+height: 63%;
+top: 130%;
+border-radius: 2%;
+left: 10%;
+}
+
+/*About tennis paragraphs*/
+.welll{
+position: absolute;
+top: 130%;
+right: 10%;
+left: 55%;
+padding: 20px;
+background-color: #efefef;
+border-radius: 10px;
+}
+
+/*Tennis facilities table*/
+.wer{
+position: absolute;
+top: 195%;
+left: 48%;
+width: 50%;
+height: 10%;
+}
+
+/*Tennis services table*/
+.membershipppp{
+position: absolute;
+top: 208%;
+left: 25%;
+width: 50%;
+height: 10%;
+}
+
+
+/*Future stars are born heading*/
+.stars{
+position: absolute;
+top: 230%;
+left: 1px;
+right: 10px;
+}
+
+
+/*Kids coaching picture*/
+.kids{
+position: absolute;
+width: 50%;
+height: 60%;
+top: 255%;
+border-radius: 2%;
+left: 10%;
+}
+
+/*Info about Kids tennis paragrahs*/
+.brilliant{
+position: absolute;
+top: 270%;
+ border: 2px solid #e5e5e5;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+font-size: 20px;
+left: 62%;
+right: 4%;
+ padding: 22px;
+}
+
+
+/*Meet our coaches heading*/
+.meet{
+position: absolute;
+top: 315%;
+left: 1px;
+right: 10px;
+}
+
+
+
+/*Coach picture Marcus*/
+.coach1{
+position: absolute;
+width: 25%;
+height: 47%;
+top: 340%;
+border-radius: 2%;
+left: 11%;
+}
+
+/*About marcus heading*/
+.aboutmarcus{
+position: absolute;
+top: 325%;
+left: 29%;
+right: 10px;
+font-size: 30px;
+text-decoration: underline;
+}
+
+/*Info about Marcus paragraphs*/
+.marcus{
+position: absolute;
+top: 347%;
+ border: 2px solid #e5e5e5;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+font-size: 20px;
+left: 39%;
+right: 10%;
+ padding: 22px;
+}
+
+/*Marcu's charging cost*/
+.aboutmarcuscost{
+position: absolute;
+top: 370%;
+left: 29%;
+right: 10px;
+font-size: 20px;
+text-decoration: underline;
+}
+
+/*Aidan Cusack's picture*/
+.coach2{
+position: absolute;
+width: 25%;
+height: 47%;
+top: 400%;
+border-radius: 2%;
+left: 11%;
+}
+
+/*About Aidan Cusack heading*/
+.aboutcusack{
+position: absolute;
+top: 385%;
+left: 29%;
+right: 10px;
+font-size: 30px;
+text-decoration: underline;
+}
+
+
+/*info about Aidan Cusack parapgraphs*/
+.cusack{
+position: absolute;
+top: 408%;
+ border: 2px solid #e5e5e5;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+font-size: 20px;
+left: 40%;
+right: 10%;
+ padding: 22px;
+}
+
+/*Aidan Cusack's charging cost*/
+.aboutcusackcost{
+position: absolute;
+top: 424%;
+left: 29%;
+right: 10px;
+font-size: 20px;
+text-decoration: underline;
+}
+
+
+/*Poalo's picture*/
+.coach3{
+position: absolute;
+width: 25%;
+height: 47%;
+top: 460%;
+border-radius: 2%;
+left: 11%;
+
+}
+
+/*About Poalo heading*/
+.aboutpoalo{
+position: absolute;
+top: 445%;
+left: 29%;
+right: 10px;
+font-size: 30px;
+text-decoration: underline;
+}
+
+
+/*Infor about Poalo paragraphs*/
+.poalo{
+position: absolute;
+top: 470%;
+ border: 2px solid #e5e5e5;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+font-size: 20px;
+left: 40%;
+right: 10%;
+ padding: 22px;
+}
+
+
+
+/*Poalo's charging cost*/
+.aboutpoalocost{
+position: absolute;
+top: 482%;
+left: 29%;
+right: 10px;
+font-size: 20px;
+text-decoration: underline;
+}
+
+/*Bottom bar*/
+.navbartswimt{
+overflow: hidden;
+  background-color: #f3f3f2;
+  position: absolute;
+  top: 519%;
+ width: 1425px;
+  left: 0%;
+  height: 150px;
+ border-radius: 0px; 
+}
+
+/*Follow us heading in the bottom bar*/
+.followus411{
+position: absolute;
+font-size: 20px;
+color: black;
+top: 510%;
+left: 1%;
+right: 0%;
+}
+
+/*must be included title in the bottom bar*/
+.academicwebsitte{
+position: absolute;
+top: 522%;
+font-size: 17px;
+left: 12%;
+}
+
+/*Tennis page ends here*/
+/***********************************************************************/
+
+
+
+
+
+
+/*GYM page starts here*/
+
+/*Fitness heading*/
+.fitness{
+position: absolute;
+right: 10%;
+top: 104%;
+left:39%;
+}
+
+
+/*Cycling people picture*/
+.gym6{
+position: relative;
+width: 37%;
+height: 71%;
+top: 20%;
+left: 10%;
+border-radius: 2%;
+}
+
+/*Abot Gym  paragraphs*/
+.weallknow{
+position: absolute;
+top: 125%;
+ border: 2px solid #e5e5e5;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+font-size: 20px;
+left: 50%;
+right: 5%;
+ padding: 22px;
+}
+
+
+
+/*GYM Eequipments heading*/
+.gymequipments{
+position: absolute;
+right: 10%;
+top: 173%;
+left:0%;
+}
+
+
+/*GYM equipments info paragraphs*/
+.wehave{
+position: absolute;
+top: 197%;
+ border: 2px solid #e5e5e5;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+font-size: 20px;
+left: 10%;
+right: 5%;
+ padding: 22px;
+}
+
+
+
+/*Table about GYM facilities*/
+.trtt{
+top: 219%;
+position: absolute;
+left: 22%; 
+right: 50%;
+width: 60%;
+}
+
+
+/*Table about GYM services*/
+.trttr{
+top: 249%;
+position: absolute;
+left: 22%; 
+right: 50%;
+width: 60%;
+}
+
+/*Instructors heading*/
+.instructors{
+position: absolute;
+right: 55%;
+top: 270%;
+left:0%;
+}
+
+/*picture of instructors*/
+.instructorss{
+position: absolute;
+width: 47%;
+height: 58%;
+top: 287%;
+left: 47%;
+border-radius: 2%;
+}
+
+
+/*info about persolan coachs*/
+.whether{
+position: absolute;
+top: 300%;
+ border: 2px solid #e5e5e5;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+font-size: 20px;
+left: 10%;
+right: 56%;
+ padding: 22px;
+}
+
+/*Gorup of people training*/
+.group{
+position: absolute;
+width: 42%;
+height: 50%;
+top: 365%;
+left: 10%;
+border-radius: 2%;
+}
+
+/*Group Exercises heading*/
+.groppp{
+position: absolute;
+
+top: 349%;
+left: 45%;
+}
+
+/*paragraphs about group exercising*/
+.exercising{
+position: absolute;
+top: 375%;
+ border: 2px solid #e5e5e5;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+font-size: 20px;
+left: 55%;
+right: 5%;
+ padding: 24px;
+ }
+
+/*bottom bar*/ 
+.navbartswisttt{
+overflow: hidden;
+  background-color: #f3f3f2;
+  position: absolute;
+  top: 430%;
+ width: 1425px;
+  left: 0%;
+  height: 150px;
+ border-radius: 0px; 
+}
+
+
+/*Follow us heading in the bottom bar*/
+.followus43{
+position: absolute;
+font-size: 20px;
+color: black;
+top: 421%;
+left: 1%;
+right: 0%;
+}
+
+
+/*must be included text in the bottom bar*/
+.academicwebsitsee{
+position: absolute;
+top: 342%;
+font-size: 17px;
+left: 10%;
+right: 0%;
+}
+
+/*GYM page ends here*/
+/**********************************************************************/
+
+
+
+
+
+
+/*Swimming pool & sauna starts here*/
+
+/*Swimming picture*/
+.swimming{
+position: relative;
+width: 37%;
+height: 80%;
+top: 20%;
+left: 10%;
+border-radius: 2%;
+}
+
+
+/*Swimming is perfect exercise heading*/
+.swimming1{
+position: absolute;
+right: 0%;
+top: 106%;
+left:39%;
+font-size: 32px;
+}
+
+/*info about swimming paragraphs*/
+.swimming2{
+position: absolute;
+top: 130%;
+ border: 2px solid #e5e5e5;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+font-size: 20px;
+left: 50%;
+right: 5%;
+ padding: 22px;
+}
+
+
+/*Picture of sauna*/
+.sauna{
+position: absolute;
+width: 47%;
+height: 58%;
+top: 210%;
+left: 47%;
+border-radius: 2%;
+}
+
+/*Feel refreshed after sauna heading*/
+.swimming3{
+position: absolute;
+right: 55%;
+top: 195%;
+left:0%;
+}
+
+/*Info about sauna paragraphs*/
+.swimming4{
+position: absolute;
+top: 225%;
+ border: 2px solid #e5e5e5;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+font-size: 20px;
+left: 10%;
+right: 56%;
+ padding: 22px;
+}
+
+/*Table about Swimming facilities*/
+.servicess{
+top: 279%;
+position: absolute;
+left: 22%; 
+right: 50%;
+width: 60%;
+}
+
+/*Swimming services table*/
+.servicesss{
+top: 310%;
+position: absolute;
+left: 22%; 
+right: 50%;
+width: 60%;
+}
+
+
+/*Bottom bar*/
+.navbartswisttst{
+overflow: hidden;
+  background-color: #f3f3f2;
+  position: absolute;
+  top: 340%;
+ width: 1425px;
+  left: 0%;
+  height: 150px;
+ border-radius: 0px; 
+}
+
+/*Follow us heading*/
+.followus435{
+position: absolute;
+font-size: 20px;
+color: black;
+top: 331%;
+left: 1%;
+right: 0%;
+}
+
+
+/*Must be included tex*/
+.academicwebsitee{
+position: absolute;
+top: 432%;
+font-size: 17px;
+left: 10%;
+right: 0%;
+}
+
+/*Swimming & sauna ends here*/
+/**********************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*OVERALL CONTROLS STARS HERE*/
+
+
+/*Controls all headings*/
+h2{
+font-size: 40px;
+padding-top: 90px;
+padding-left: 10%;
+}
+
+
+/*Control over of social media buttons*/
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 27px;
+  position: relative;
+  top: 39%;
+  left: 10%;
+  right: 0%;
+
+}
+
+
+/*Opacity of social media buttons when clicking*/
+.fa:hover {
+    opacity: 0.7;
+
+}
+
+
+/*Instagram logo color changer*/
+.fa-instagram {
+  color: white;
+}
+
+
+/*resbonsibe for PARAGRAPHS*/
+p{
+font-size: 20px;
+padding-left: 13%;
+padding-right: 13%;
+padding-top: 40px;
+}
+
+
+/*Tennis cours link in the top navigation bar*/
+.linkk{
+position: relative;
+font-size: 20px;
+padding-right: 160px;
+left: 90px;
+}
+
+/*Swimming pool and sauna link in the top navigation bar */
+.linkkkk{
+position: relative;
+font-size: 20px;
+padding-right: 160px;
+left: 44px;
+}
+
+
+
+/*Gym Facilities link in the top navigation bar*/
+.gym{
+position: relative;
+font-size: 20px;
+padding-right: 130px;
+left: 45px;
+bottom: 10px;
+}
+
+/*Tennis courts link in the top navigation bar*/
+.tennis{
+position: relative;
+font-size: 20px;
+padding-right: 10px;
+left: 148px;
+bottom: 10px;
+}
+
+/*About link in the top navigation bar*/
+.about{
+position: relative;
+font-size: 20px;
+padding-right: 130px;
+left: 75px;
+bottom: 10px;
+}
+
+ul.a {
+font-size: 20px;
+color: black;
+
+}
+
+
+/* color for links */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: #b3b4b4;
+    text-decoration: none;
+}
+
+
+/*Responsible for all tables*/
+th, td {
+    text-align: left;
+    padding: 8px;
+font-size: 20px;
+padding: 3px;
+color: black;
+height: 50px;
+}
+
+
+/*lined grey background of tables*/
+.gap:nth-child(even) {
+background-color: #f2f2f2;
+}
+
+
+/*Positioning for top Carousel */
+.iphone{
+position: relative; 
+left: 0px;
+padding-top: 53px;
+}
+
+
+/*OVERALL CONTROLS ENDS HERE*/
+/**********************************************************************/
+
